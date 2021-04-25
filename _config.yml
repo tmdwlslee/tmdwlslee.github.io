@@ -21,8 +21,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              xxxx
-  email:             xxxx@xxxx.com
+  name:              이승진
+  email:             dibgh6@naver.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
