@@ -13,7 +13,7 @@ comments: true
 - 목차
     - [1. 애플리케이션 계층이란?](#1-애플리케이션-계층이란)
     - [2. 소켓](#2-소켓)
-    - [3. HTTP](#3-HTTP)
+    - [3. HTTP](#3-http)
  
 <br>
 <br>
@@ -44,7 +44,7 @@ comments: true
 <br>
 각 프로세스의 목적지는 IP Address와 Port 번호의 조합으로 구성된다.<br>
 <br>
-Ex) 127.0.0.1:8080<br>
+Ex) IP : 127.0.0.1 / Port :8080<br>
 
 <br>
 <br>
