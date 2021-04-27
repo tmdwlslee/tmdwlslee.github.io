@@ -5,10 +5,9 @@ date: '2021-04-26 22:31:51 +0900'
 categories: study
 tags: githubpage
 comments: true
-
+related_posts:
+- category/_posts/study/2021-04-26-application layer.md
 ---
-
-# 개요
 
 - 목차
     - [1. 애플리케이션 계층이란?](#1-애플리케이션-계층이란)
@@ -67,4 +66,6 @@ Hypertext에 여러 하이퍼 링크가 존재하면 여러 번의 TCP 연결이
 
 ※ RTT (Round Trip Time) : 클라이언트에서 Request 후 Response를 받기까지 걸리는 시간 
 
-
+<br>
+<br>
+<br>
