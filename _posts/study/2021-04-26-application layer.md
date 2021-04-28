@@ -7,6 +7,7 @@ tags: githubpage
 comments: true
 related_posts:
 - category/_posts/study/2021-04-26-application layer.md
+- category/_posts/study/2021-04-26-application layer.md
 ---
 
 - 목차
