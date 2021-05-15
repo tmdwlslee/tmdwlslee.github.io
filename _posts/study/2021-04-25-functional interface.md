@@ -3,7 +3,7 @@ layout: post
 title:  "함수형 인터페이스란?"
 date: '2021-04-25 21:51:00 +0900'
 categories: study
-tags: githubpage
+tags: java
 comments: true
 ---
 

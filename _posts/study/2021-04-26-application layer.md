@@ -3,11 +3,11 @@ title: "애플리케이션 계층"
 layout: post
 date: '2021-04-26 22:31:51 +0900'
 categories: study
-tags: githubpage
+tags: network
 comments: true
 related_posts:
-- category/_posts/study/2021-04-26-application layer.md
-- category/_posts/study/2021-04-26-application layer.md
+- category/_posts/study/network/2021-04-26-application layer.md
+- category/_posts/study/network/2021-04-26-application layer.md
 ---
 
 - 목차

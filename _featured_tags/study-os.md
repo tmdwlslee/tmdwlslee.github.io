@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: GITHUBPAGE
-slug: githubpage
+title: 운영체제
+slug: os
 category: study
 menu: false
-order: 1
+order: 2
 ---

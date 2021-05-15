@@ -3,7 +3,7 @@ title: "트랜스포트(전송) 계층"
 layout: post
 date: '2021-04-29 22:19:51 +0900'
 categories: study
-tags: githubpage
+tags: network
 comments: true
 ---
 
