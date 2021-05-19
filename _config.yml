@@ -56,7 +56,7 @@ copyright:           '&copy; 2021.02. by sj.lee'
 permalink:           
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            5
+paginate:            3
 paginate_path:       '/page-:num/'
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
@@ -110,8 +110,6 @@ exclude:
   - package-lock.json
   - Gemfile
   - Gemfile.lock
-  - _posts/study/2020-12-26-making-blog04.md
-
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'
